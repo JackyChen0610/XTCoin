@@ -1,5 +1,3 @@
-package eoscoin;
-
 import java.util.Scanner;
 
 public class Calculation {
